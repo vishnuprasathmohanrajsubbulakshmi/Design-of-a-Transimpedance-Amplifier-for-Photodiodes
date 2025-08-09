@@ -6,14 +6,6 @@ Two photodiode models were evaluated: **BPW 21** and **SFH 229**, with a focus o
 
 ---
 
-## Authors
-- Timo Müller  
-- Vishnu Prasath Mohanraj  
-- Subbulakshmi  
-- Jonas Kanzler  
-
----
-
 ## Objective
 The primary goal was to design a low-noise, high-gain transimpedance amplifier capable of accurately converting photodiode current into a measurable voltage signal, suitable for optical sensing applications.
 
