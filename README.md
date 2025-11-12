@@ -71,7 +71,7 @@ The primary goal was to design a low-noise, high-gain transimpedance amplifier c
 ---
 
 ## License
-[Choose an appropriate license, e.g., CERN OHL, MIT License]
+
 
 ---
 
