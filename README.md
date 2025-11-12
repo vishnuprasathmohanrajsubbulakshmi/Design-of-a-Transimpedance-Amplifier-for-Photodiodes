@@ -20,7 +20,7 @@ The primary goal was to design a low-noise, high-gain transimpedance amplifier c
 ## Circuit Design
 - **Topology:** Op-amp based TIA
 - **Feedback Resistors:** Tested at **5 MΩ** and **50 MΩ**
-- **Simulation Tools:** [Specify tool used, e.g., LTspice, PSpice, Multisim]
+- **Simulation Tools:** Pspice and AutoDesk Eagle
 - **PCB Layout:** Designed for low parasitics and minimal noise pickup
 
 ---
